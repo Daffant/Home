@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 About Me  
-```diff
+diff
 + Passionate about web development and programming  
 ! Currently focusing on:  
 🌐 Frontend: HTML | CSS | JavaScript
@@ -22,4 +22,4 @@
 🌟 Featured Projects
 <p align="center"> [![Project Name](https://github-readme-stats.vercel.app/api/pin/?username=Daffant&repo=repositoryname&theme=radical)](https://github.com/Daffant/repositoryname) </p>
 📫 How to Reach Me
-<p align="center"> <a href="https://t.me/yournick"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"> </a> </p> ```
+<p align="center"> <a href="https://t.me/yournick"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"> </a> </p>

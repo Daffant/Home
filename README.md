@@ -20,4 +20,4 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Daffant&show_icons=true&theme=radical&hide_border=true" width="48%"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daffant&layout=compact&theme=radical&hide_border=true" width="48%"> </p>
 
 📫 How to Reach Me
-<p align="center"> <a href="https://t.me/@workepepe"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"> </a> </p>
+<p align="center"> <a href="https://t.me/workepepe"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"> </a> </p>

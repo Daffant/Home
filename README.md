@@ -1,25 +1,48 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=9D6BFF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Daffant+👋;College+Programming+Student" alt="Typing animation" />
-</p>
+<div align="center">
+  <div id="header" style="position:relative; height:300px; overflow:hidden; background: linear-gradient(135deg, #0f0524 0%, #1a0b36 50%, #2a1a5e 100%); border-radius:10px;">
+    <div style="position:absolute; top:0; left:0; width:100%; height:400px; background: radial-gradient(circle at 30% 50%, rgba(103, 58, 183, 0.3) 0%, transparent 50%); transform: translateY(0px); animation: float 6s ease-in-out infinite;"></div>
+    <div style="position:absolute; top:0; left:0; width:100%; height:400px; background: radial-gradient(circle at 70% 30%, rgba(156, 39, 176, 0.3) 0%, transparent 50%); transform: translateY(0px); animation: float 8s ease-in-out infinite reverse;"></div>
+    
+    <div style="position:relative; z-index:10; padding-top:80px;">
+      <h1 style="color:white; font-size:3em; margin-bottom:10px;">Hi, I'm Daffant 👋</h1>
+      <p style="color:rgba(255,255,255,0.8); font-size:1.2em; max-width:600px; margin:0 auto;">College Programming student</p>
+    </div>
+  </div>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Daffant&label=Profile%20views&color=9D6BFF&style=flat" alt="Daffant" /> 
-</p>
+<style>
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-20px); }
+    100% { transform: translateY(0px); }
+  }
+  
+  #header:hover div:nth-of-type(1) {
+    transform: translateY(-40px) translateX(10px);
+    transition: transform 0.5s ease;
+  }
+  
+  #header:hover div:nth-of-type(2) {
+    transform: translateY(30px) translateX(-10px);
+    transition: transform 0.5s ease;
+  }
+</style>
 
 ---
 
 ## 🚀 About Me
 
-```diff
-+ Passionate programming student with focus on web technologies
-! Currently learning and building projects with:
-🌐 Frontend: HTML, CSS, JavaScript
+I'm a programming student currently learning:
+- HTML
+- CSS
+- JavaScript
 
-🛠️ Tools: Git, GitHub, VS Code
+## 🔧 Technologies and Tools
 
-📚 Learning: React, Node.js
+- Languages: JavaScript, Python
+- Frameworks: (You can add frameworks you're learning)
+- Tools: Git, GitHub
 
-🔧 Technologies
-<p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> </p>
-📊 GitHub Stats
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Daffant&show_icons=true&theme=radical" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Daffant&theme=radical" /> </p><p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Daffant&theme=react-dark&bg_color=0D1117&hide_border=true" width="100%"/> </p> ```
+## 📈 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Daffant&show_icons=true&theme=radical)
